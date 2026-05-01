@@ -102,7 +102,11 @@ If you use this dataset in your research, please cite:
 **Sultan Yousuf**
 - 📧 Email: sultany1996@gmail.com
 - 💼 LinkedIn: [sultan-panwar1122](https://www.linkedin.com/in/sultan-panwar1122/)
-- 🎓 MSc Computer Science — UET Lahore
+- 🎓 MS Computer Science — UET Lahore
+
+- 📧 Email: tahiranazir980@gmail.com
+- 💼 LinkedIn: [tahira-nazir-7710201b9](https://www.linkedin.com/in/tahira-nazir-7710201b9/)
+- 🎓 MS Computer Science — Comsats Sahiwal
 
 ---
 
