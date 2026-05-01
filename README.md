@@ -19,16 +19,8 @@ This dataset contains hand gesture images representing Pakistani Sign Language (
 PSL-Dataset/
 │
 ├── README.md
-└── dataset/
-    ├── class_01_hello/
-    │   ├── img_001.jpg
-    │   ├── img_002.jpg
-    │   └── ...
-    ├── class_02_thankyou/
-    │   ├── img_001.jpg
-    │   └── ...
-    └── ... (40+ classes)
-```
+└── dataset LINK
+ 
 
 ## 🧾 Classes
 
